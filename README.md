@@ -4,7 +4,7 @@ pricingfortheweb
 Pricing for the Web Resources
 
 ##Presentation Deck
-Get the presentation deck [here](http://speakerdeck.com/bradweaver/pricing-for-the-web-how-to-do-great-work-without-losing-your-shirt-and-soul).
+Get the presentation deck [here](http://speakerdeck.com/bradweaver/pricing-for-the-web-how-to-do-great-work-without-losing-your-shirt-and-soul target="_blank").
 
 ## Books
 * Creative Professionals Guide to Money -Ilise Benun

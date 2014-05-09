@@ -6,6 +6,9 @@ Pricing for the Web Resources
 ##Presentation Deck
 Get the presentation deck [here](https://speakerdeck.com/bradweaver/pricing-for-the-web).
 
+##Rate Calculator
+Calculate your expenses and rate [here](http://instacalc.com/22297).
+
 ## Books
 * Creative Professionals Guide to Money -Ilise Benun
 * Design Is A Job  - Mike Monteiro

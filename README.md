@@ -4,7 +4,7 @@ pricingfortheweb
 Pricing for the Web Resources
 
 ##Presentation Deck
-Get the presentation deck [here](https://speakerdeck.com/bradweaver/pricing-for-the-web).
+Get the presentation deck [here](https://speakerdeck.com/bradweaver/pricing-for-the-web-1).
 
 ##Rate Calculator
 Calculate your expenses and rate [here](http://instacalc.com/22297).

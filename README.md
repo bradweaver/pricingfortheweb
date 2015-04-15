@@ -6,15 +6,13 @@ Pricing for the Web Resources
 ##Presentation Deck
 Get the presentation deck [here](https://speakerdeck.com/bradweaver/pricing-for-the-web-1).
 
-##Rate Calculator
-Calculate your expenses and rate [here](http://instacalc.com/22297).
-
 ## Books
 * Creative Professionals Guide to Money -Ilise Benun
 * Design Is A Job  - Mike Monteiro
 * Freelancer’s Bible - Sara Horowitz
 * Double Your Freelancing Rate in 14 Days - Brennan Dunn
 * Rework - 37signals
+* Creative, Inc. - Joy Deangdeelert Cho and Meg Mateo Ilasco
 * The Hidden Agendas: A Proven Way to Win Business & Create a Following - Kevin Allen
 * Web Design Confidential - Amanda Hackwith
 * The Real Business of Web Design - John Waters
@@ -24,6 +22,8 @@ Calculate your expenses and rate [here](http://instacalc.com/22297).
 ##Websites
 * 99u
 * Freelancer’s Union
+* A List Apart
+* Red Lemon Club
 * Creative Mornings
 * Marketing Mentor
 * How Design

@@ -1,10 +1,10 @@
 pricingfortheweb
 ================
 
-Pricing for the Web Resources
+Pricing Your Work Resources
 
 ##Presentation Deck
-Get the presentation deck [here](https://speakerdeck.com/bradweaver/pricing-for-the-web-1).
+Get the presentation deck [here](https://speakerdeck.com/bradweaver/how-to-price-your-work-convergese-2015).
 
 ## Books
 * Creative Professionals Guide to Money -Ilise Benun

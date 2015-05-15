@@ -3,6 +3,8 @@ pricingfortheweb
 
 Pricing Your Work Resources
 
+Dropbox: (https://www.dropbox.com/sh/hfgwtccrdcm6vo0/AADbWFj1ZXqB2YDV2mGr3MGHa?dl=0)
+
 ##Presentation Deck
 Get the presentation deck [here](https://speakerdeck.com/bradweaver/how-to-price-your-work-convergese-2015).
 

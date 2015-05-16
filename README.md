@@ -22,15 +22,15 @@ Get the presentation deck [here](https://speakerdeck.com/bradweaver/how-to-price
 * How to be a Graphic Designer Without Losing Your Soul - Adrian Shaughnessy
 
 ##Websites
-* 99u
-* Freelancer’s Union
-* A List Apart
-* Red Lemon Club
-* Creative Mornings
-* Marketing Mentor
-* How Design
-* International Freelancer’s Academy
-* Business of Freelancing (Podcast)
+* [99u](http://99u.com/)
+* [Freelancer’s Union](https://www.freelancersunion.org/)
+* [A List Apart](http://alistapart.com/)
+* [Red Lemon Club](http://www.redlemonclub.com/)
+* [Creative Mornings](http://creativemornings.com/)
+* [Marketing Mentor](http://marketing-mentor.com/)
+* [How Design](http://www.howdesign.com/)
+* [International Freelancer’s Academy](http://internationalfreelancersacademy.com/training/)
+* [Business of Freelancing (Podcast)](http://doubleyourfreelancing.com/podcast/)
 
 ##Software
 * Freshbooks, Harvest, Solo

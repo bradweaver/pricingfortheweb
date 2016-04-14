@@ -3,8 +3,6 @@ pricingfortheweb
 
 Pricing Your Work Resources
 
-Dropbox: (https://www.dropbox.com/sh/hfgwtccrdcm6vo0/AADbWFj1ZXqB2YDV2mGr3MGHa?dl=0)
-
 ## Books
 * Creative Truth: Start & Build a Profitable Design Business - Brad Weaver
 * Creative Professionals Guide to Money -Ilise Benun

@@ -5,10 +5,8 @@ Pricing Your Work Resources
 
 Dropbox: (https://www.dropbox.com/sh/hfgwtccrdcm6vo0/AADbWFj1ZXqB2YDV2mGr3MGHa?dl=0)
 
-##Presentation Deck
-Get the presentation deck [here](https://speakerdeck.com/bradweaver/how-to-price-your-work-convergese-2015).
-
 ## Books
+* Creative Truth: Start & Build a Profitable Design Business - Brad Weaver
 * Creative Professionals Guide to Money -Ilise Benun
 * Design Is A Job  - Mike Monteiro
 * Freelancer’s Bible - Sara Horowitz
@@ -27,6 +25,7 @@ Get the presentation deck [here](https://speakerdeck.com/bradweaver/how-to-price
 * A List Apart
 * Red Lemon Club
 * Creative Mornings
+* Paul Jarvis
 * Marketing Mentor
 * How Design
 * International Freelancer’s Academy
